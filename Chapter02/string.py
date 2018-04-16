@@ -1,0 +1,5 @@
+print("title():" + "liguangyi".title())
+print("upper():" + "liguangyi".upper())
+print("lower():" + "liguangyi".lower())
+print("rstrip():" + "liguangyi ".rstrip())
+print("lstrip():" + " liguangyi".lstrip())
